@@ -29,7 +29,7 @@ See our [Kanban](https://github.com/orgs/QuestNetwork/projects/1) for the develo
 
 ### Building
 
-qDesk Social is a module of [qDesk](https://github.com/QuestNetwork/qDesk), so please see https://github.com/QuestNetwork/qDesk#development for instructions.
+The Quest Engine is a module of [Quest OS](https://github.com/QuestNetwork/quest-os-js), so please see https://github.com/QuestNetwork/qDesk#development for instructions.
 
 ### Commands
 
