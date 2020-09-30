@@ -8,12 +8,6 @@ An Angular compatible NodeJS library for the use with [Quest OS](https://github.
 
 We have chosen Angular/Electron as an example environment because we believe it offers the best accessibility for developers coming from any other language/framework. It is already being used in Python on PyQt5 and we aim to provide the underlying library in Go and wherever possible in Rust as well.
 
-qDesk makes it possible to build custom, secure and decentralized social networks in less than 20 days.
-
-0.9.5+ allow to connect qDesk Social profiles to Twitter without sharing information with Twitter as an additional layer of verification. It is planned to add passive verification for a custom list of external networks to verify the peer identities.
-
-1.0.0+ complies with privacy regulations and can be used for confidential information as a production social network for enterprises worldwide.
-
 [qDesk](https://github.com/QuestNetwork/qDesk) works in the browser, as an Electron on Windows, Mac and Linux and Android using Cordova.
 
 Check out other [Awesome Quest Network dApps](https://github.com/QuestNetwork/awesome/blob/master/README.md)!
@@ -57,40 +51,10 @@ Pro Tip: Put a file in your `/bin` that runs the quest-cli like so `node /path/t
 
 ## Features
 
-**0.9.3**
-- Public Profile
-- Invite Only Profile
-- Alias, Full Name, About
-
-**0.9.4**
-- Pair by QR Code
-- Search For Social Profiles Received From All Connected Modules
-
-## Roadmap
-
-**0.9.4**
-- Native Posts
-- Share Private Profiles 
-- Report Posts & Users
-- Ban Users
-
-**0.9.5**
-- Native Followers
-- Comments On Posts
-- Connect To Twitter
-
-**0.9.6**
-- Use up To 5 Social Profiles Simultaneously 
-- Change Profile Picture
-- Change Poster
-
-
-**0.9.9**
-- Connect To Facebook/Instagram/Other Platforms
-- Connect [Markets](https://github.com/QuestNetwork/qd-market-ts)
-
-**1.0.0**
-- Connect [Vibenarium](https://github.com/Vibenarium/vibenarium-platform)
+**2.4.0**
+- Create Quests
+- Join Quests
+- Basic Participation
 
 ## License
 GNU Affero GPLv3
